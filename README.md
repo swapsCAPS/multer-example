@@ -11,8 +11,8 @@ IRL you will probably need more guards, file deletion, etc.
 - ffmpeg
 
 ### Install
-`sudo apt install ffmpeg` (on debian based os)
-`npm i`
+- `sudo apt install ffmpeg` (on debian based os)
+- `npm i`
 
 ### Run
 `npm start`
